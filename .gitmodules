@@ -1,6 +1,6 @@
 [submodule "InfiniTime"]
 	path = InfiniTime
-	url = ../../InfiniTimeOrg/InfiniTime.git
+	url = ../../coreyopsis/InfiniTime.git
 [submodule "lv_drivers"]
 	path = lv_drivers
 	url = ../../lvgl/lv_drivers.git
